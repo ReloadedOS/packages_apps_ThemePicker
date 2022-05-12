@@ -264,4 +264,8 @@
 
     <!-- Icon Packs -->
     <string name="icon_pack_title">System icon pack</string>
+
+    <!-- Fonts -->
+    <string name="font_title">System font</string>
+    <string name="font_preview_card_content_description">Font Preview</string>
 </resources>
