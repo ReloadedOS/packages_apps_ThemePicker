@@ -111,7 +111,8 @@ android_app {
     ],
     required: [
         "default_permissions_com.android.wallpaper",
-        "privapp_whitelist_com.android.wallpaper"
+        "privapp_whitelist_com.android.wallpaper",
+        "PixelThemesStub",
     ],
 }
 
